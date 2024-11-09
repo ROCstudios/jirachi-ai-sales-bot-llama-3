@@ -1,9 +1,0 @@
-Product Inquiry,product,item,model,,,,,
-Specification Inquiry,specification,dimensions,size,length,width,thickness,Density,
-Quantity Inquiry,quantity,amount,volume,units,area,Coverage,,
-Delivery Inquiry,delivery,arrival,port,destination,ETA,,,
-Order Timing,order,time,start,construction,timing,production,start,
-Shipping Terms,EXW,FCA,FOB,CIF,DDU,DDP,,
-Market Conditions,market,country,conditions,demands,,,,
-Freight Forwarder,freight,forwarder,forwarding,agent,transport,Contact,,
-Payment Method,Payment,T/T,L/C,D/P,D/A,MoneyGram,Credit,Card
