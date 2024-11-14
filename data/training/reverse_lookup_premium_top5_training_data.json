@@ -1,137 +1,137 @@
 [
     {
-        "instruction": "Which models can go 90?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with speed around 90.0km/h (±15%): 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
+        "instruction": "List high-end models with speed capabilities over 90.",
+        "input": "Customer wants to see the most expensive models in this category.",
+        "output": "Here are the top 5 models with speed around 90.0km/h (±15%): 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h), 柯瓦勒 阿瑞斯 Ares (95.0km/h)."
     },
     {
         "instruction": "Which premium models have speed higher than 90.0km/h?",
-        "input": "Customer is looking for premium motorcycles within this specification range.",
-        "output": "Here are the top 5 models with speed above 90.0km/h: 达芬骑 DC 100 Pure (200.0km/h), 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h)."
+        "input": "Customer wants to see the most expensive models in this category.",
+        "output": "Here are the top 5 models with speed above 90.0km/h: 达芬骑 DC Classic (200.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
     },
     {
         "instruction": "Which luxury models have speed lower than 90.0km/h?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with speed below 90.0km/h: 轰轰烈 顽童150-5D (85.0km/h), 鸷游 250T (85.0km/h), 春风 CFORCE 625 (90.0km/h), 力箭 LJ750B (90.0km/h), 力箭 LJ750B (90.0km/h)."
+        "input": "Customer needs luxury options around this specification.",
+        "output": "Here are the top 5 models with speed below 90.0km/h: 海陵 海陵 750 (85.0km/h), 嘲风 F80 (85.0km/h), 春风 CFORCE 550 (90.0km/h), 力箭 海盗500 (90.0km/h), 力箭 海盗500 (90.0km/h)."
     },
     {
-        "instruction": "List high-end models with speed capabilities over 95.",
+        "instruction": "What premium motorcycles have a top speed above 95?",
         "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with speed around 95.0km/h (±15%): 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
+        "output": "Here are the top 5 models with speed around 95.0km/h (±15%): 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h), 柯瓦勒 阿瑞斯 Ares (95.0km/h)."
     },
     {
         "instruction": "Which premium models have speed higher than 95.0km/h?",
-        "input": "Customer is looking for premium motorcycles within this specification range.",
-        "output": "Here are the top 5 models with speed above 95.0km/h: 达芬骑 DC 100 Pure (200.0km/h), 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h)."
+        "input": "Customer wants to see the most expensive models in this category.",
+        "output": "Here are the top 5 models with speed above 95.0km/h: 达芬骑 DC Classic (200.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
     },
     {
         "instruction": "Which luxury models have speed lower than 95.0km/h?",
-        "input": "Customer is looking for premium motorcycles within this specification range.",
-        "output": "Here are the top 5 models with speed below 95.0km/h: 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
+        "input": "Customer needs luxury options around this specification.",
+        "output": "Here are the top 5 models with speed below 95.0km/h: 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h), 柯瓦勒 阿瑞斯 Ares (95.0km/h)."
     },
     {
-        "instruction": "List high-end models with speed capabilities over 100.",
-        "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with speed around 100.0km/h (±15%): 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
+        "instruction": "Which models can go 100?",
+        "input": "Customer wants to see the most expensive models in this category.",
+        "output": "Here are the top 5 models with speed around 100.0km/h (±15%): 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h), 柯瓦勒 阿瑞斯 Ares (95.0km/h)."
     },
     {
         "instruction": "Which premium models have speed higher than 100.0km/h?",
-        "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with speed above 100.0km/h: 达芬骑 DC 100 Pure (200.0km/h), 乌拉尔 M70 (105.0km/h), ZERO Police (200.0km/h), ZERO S (167.0km/h), 达芬骑 DC Classic (200.0km/h)."
+        "input": "Customer wants to compare high-end models with similar specifications.",
+        "output": "Here are the top 5 models with speed above 100.0km/h: 达芬骑 DC Classic (200.0km/h), 乌拉尔 装甲兵 (105.0km/h), ZERO SR/S (200.0km/h), ZERO SR (167.0km/h), 达芬骑 DC 100 (200.0km/h)."
     },
     {
         "instruction": "Which luxury models have speed lower than 100.0km/h?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with speed below 100.0km/h: 轻骑 U俠一代 QM125-3XI (95.0km/h), 柯瓦勒 奥丁 Odin (95.0km/h), 古思特 公爵 GST125T-12A (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with speed below 100.0km/h: 柯瓦勒 奥丁 Odin (95.0km/h), 柯瓦勒 提尔 Tyr (95.0km/h), 松散 America Chopper (95.0km/h), 柯瓦勒 雷神 Thor (95.0km/h), 柯瓦勒 阿瑞斯 Ares (95.0km/h)."
     },
     {
         "instruction": "List high-end models priced around 6799.",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with price around 6799.0Yuan (±15%): 新感觉 XGJ150GY-6 (7800.0Yuan), 飞翎 枭峰9号 (7800.0Yuan), 新贵尊 极盗者 SHR-3 (7800.0Yuan), 光阳 威风豪迈125 (7800.0Yuan), 台荣 马杰斯特T3 (7800.0Yuan)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with price around 6799.0Yuan (±15%): 新感觉 XGJ250GY-8 (7800.0Yuan), 飞翎 A 2 (7800.0Yuan), 新贵尊 战狼 风冷版 (7800.0Yuan), 光阳 锋丽50 Fi (7800.0Yuan), 台荣 巡洋舰T2 (7800.0Yuan)."
     },
     {
         "instruction": "Which premium models have price higher than 6799.0Yuan?",
-        "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with price above 6799.0Yuan: 达芬骑 DC 100 Pure (577700.0Yuan), 轻骑 U俠一代 QM125-3XI (450000.0Yuan), 柯瓦勒 奥丁 Odin (430000.0Yuan), 古思特 公爵 GST125T-12A (370000.0Yuan), 柯瓦勒 提尔 Tyr (360000.0Yuan)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with price above 6799.0Yuan: 达芬骑 DC Classic (577700.0Yuan), 柯瓦勒 奥丁 Odin (450000.0Yuan), 柯瓦勒 提尔 Tyr (430000.0Yuan), 松散 America Chopper (370000.0Yuan), 柯瓦勒 雷神 Thor (360000.0Yuan)."
     },
     {
         "instruction": "Which luxury models have price lower than 6799.0Yuan?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with price below 6799.0Yuan: 小牛 GOVA G6 (6799.0Yuan), 雅迪 DM6 (6799.0Yuan), 启典 KD150-H (6799.0Yuan), 启典 KD150-L (6799.0Yuan), 金城 提拉米苏 200 警用版 (6780.0Yuan)."
+        "input": "Customer wants to see the most expensive models in this category.",
+        "output": "Here are the top 5 models with price below 6799.0Yuan: 小牛 GOVA G3 (6799.0Yuan), 雅迪 E9 (6799.0Yuan), 启典 KD150-V (6799.0Yuan), 启典 KD150-H (6799.0Yuan), 金城 天逸SJ125-2 (6780.0Yuan)."
     },
     {
-        "instruction": "List high-end models priced around 10500.",
-        "input": "Customer is interested in top-tier models meeting these criteria.",
-        "output": "Here are the top 5 models with price around 10500.0Yuan (±15%): 赛科龙 RA250 (11988.0Yuan), 波速尔 M10 (11980.0Yuan), 三業 赛博150 (11980.0Yuan), 斯托纳 猿猴125 Side Tricycle (11980.0Yuan), 古思特 GU-125RT (11980.0Yuan)."
+        "instruction": "Which models cost like 10500?",
+        "input": "Customer wants to see the most expensive models in this category.",
+        "output": "Here are the top 5 models with price around 10500.0Yuan (±15%): 赛科龙 RA2 (11988.0Yuan), 波速尔 J11 (11980.0Yuan), 三業 喀秋莎 (11980.0Yuan), 斯托纳 猿猴125 Cross (11980.0Yuan), 古思特 枭龙 (11980.0Yuan)."
     },
     {
         "instruction": "Which premium models have price higher than 10500.0Yuan?",
-        "input": "Customer wants to see the most expensive models in this category.",
-        "output": "Here are the top 5 models with price above 10500.0Yuan: 达芬骑 DC 100 Pure (577700.0Yuan), 轻骑 U俠一代 QM125-3XI (450000.0Yuan), 柯瓦勒 奥丁 Odin (430000.0Yuan), 古思特 公爵 GST125T-12A (370000.0Yuan), 柯瓦勒 提尔 Tyr (360000.0Yuan)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with price above 10500.0Yuan: 达芬骑 DC Classic (577700.0Yuan), 柯瓦勒 奥丁 Odin (450000.0Yuan), 柯瓦勒 提尔 Tyr (430000.0Yuan), 松散 America Chopper (370000.0Yuan), 柯瓦勒 雷神 Thor (360000.0Yuan)."
     },
     {
         "instruction": "Which luxury models have price lower than 10500.0Yuan?",
-        "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with price below 10500.0Yuan: 大地鹰王 沙尘暴DD250E-5D (10500.0Yuan), 古思特 时光机 (10500.0Yuan), 九号 魔术师K (10499.0Yuan), 光阳 i-Like (10480.0Yuan), 华洋 T4 (10380.0Yuan)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with price below 10500.0Yuan: 大地鹰王 沙尘暴DD150E-2D (10500.0Yuan), 古思特 爵士 GST125T-11A (10500.0Yuan), 九号 机械师MMax (10499.0Yuan), 光阳 i-ONE (10480.0Yuan), 华洋 T4L (10380.0Yuan)."
     },
     {
         "instruction": "What premium motorcycles are priced near 19980?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with price around 19980.0Yuan (±15%): 波速尔 XT-1 (22800.0Yuan), 宝雕 BD 350 (22800.0Yuan), 宝雕 BD400RR (22800.0Yuan), 恒舰 Z300 (22800.0Yuan), 大力神 F7 (22800.0Yuan)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with price around 19980.0Yuan (±15%): 波速尔 猛禽 (22800.0Yuan), 布沃克 火石250 (22800.0Yuan), 宝雕 R1S500 (22800.0Yuan), 恒舰 S5 (22800.0Yuan), 大力神 H2 (22800.0Yuan)."
     },
     {
         "instruction": "Which premium models have price higher than 19980.0Yuan?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with price above 19980.0Yuan: 达芬骑 DC 100 Pure (577700.0Yuan), 轻骑 U俠一代 QM125-3XI (450000.0Yuan), 柯瓦勒 奥丁 Odin (430000.0Yuan), 古思特 公爵 GST125T-12A (370000.0Yuan), 柯瓦勒 提尔 Tyr (360000.0Yuan)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with price above 19980.0Yuan: 达芬骑 DC Classic (577700.0Yuan), 柯瓦勒 奥丁 Odin (450000.0Yuan), 柯瓦勒 提尔 Tyr (430000.0Yuan), 松散 America Chopper (370000.0Yuan), 柯瓦勒 雷神 Thor (360000.0Yuan)."
     },
     {
         "instruction": "Which luxury models have price lower than 19980.0Yuan?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with price below 19980.0Yuan: 金城 越途Travelin (19980.0Yuan), 元图 GP325 (19980.0Yuan), 新感觉 XGJ150-19 (19980.0Yuan), 斗风 F1-300 (19980.0Yuan), 无极 RR525 (19980.0Yuan)."
+        "input": "Customer is interested in top-tier models meeting these criteria.",
+        "output": "Here are the top 5 models with price below 19980.0Yuan: 金城 提拉米苏 150 (19980.0Yuan), 元图 GP250 (19980.0Yuan), 新感觉 250-3D (19980.0Yuan), 斗风 F1-150 (19980.0Yuan), 无极 300RR (19980.0Yuan)."
     },
     {
-        "instruction": "What premium motorcycles have similar tank size to 4?",
-        "input": "Customer wants to see the most expensive models in this category.",
-        "output": "Here are the top 5 models with fuel around 4.5L (±15%): 匠工 1924 电动版 (4.0L), 颢晨 HS150T-B (4.8L), 颢晨 致萌 (4.8L), 斯托纳 猿猴 (4.2L), 嘉陵 CoCo Pony 150F (5.0L)."
+        "instruction": "List high-end models with fuel capacity close to 4.",
+        "input": "Customer needs luxury options around this specification.",
+        "output": "Here are the top 5 models with fuel around 4.5L (±15%): 匠工 绝地轻甲 (4.0L), 颢晨 HS150T-A (4.8L), 颢晨 HS150T-B (4.8L), AKMOTOR AK11 (4.5L), 斯托纳 SS150 (4.2L)."
     },
     {
         "instruction": "Which premium models have fuel higher than 4.5L?",
-        "input": "Customer is looking for premium motorcycles within this specification range.",
-        "output": "Here are the top 5 models with fuel above 4.5L: 达芬骑 DC 100 Pure (9.0L), 柯瓦勒 奥丁 Odin (22.5L), 柯瓦勒 提尔 Tyr (15.0L), 柯瓦勒 雷神 Thor (22.5L), 北极星 RZR XP4 1000 (36.0L)."
+        "input": "Customer is interested in top-tier models meeting these criteria.",
+        "output": "Here are the top 5 models with fuel above 4.5L: 达芬骑 DC Classic (9.0L), 柯瓦勒 提尔 Tyr (22.5L), 柯瓦勒 雷神 Thor (15.0L), 柯瓦勒 阿瑞斯 Ares (22.5L), 北极星 RZR XP4 Turbo S (36.0L)."
     },
     {
         "instruction": "Which luxury models have fuel lower than 4.5L?",
-        "input": "Customer is interested in top-tier models meeting these criteria.",
-        "output": "Here are the top 5 models with fuel below 4.5L: 轻骑 U俠一代 QM125-3XI (0.0L), 古思特 公爵 GST125T-12A (0.0L), 松散 America Chopper (0.0L), 北极星 游侠900 (0.0L), 北极星 游侠 800 (0.0L)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with fuel below 4.5L: 柯瓦勒 奥丁 Odin (0.0L), 松散 America Chopper (0.0L), 松散 American FatTire (0.0L), 北极星 RZR XP4 1000 (0.0L), 北极星 游侠900 (0.0L)."
     },
     {
-        "instruction": "What premium motorcycles have similar tank size to 9?",
-        "input": "Customer is looking for premium motorcycles within this specification range.",
-        "output": "Here are the top 5 models with fuel around 9.0L (±15%): 达芬骑 DC 100 Pure (9.0L), ZERO Police (9.0L), ZERO S (9.0L), 达芬骑 DC Classic (9.0L), 豪韵 U8 (9.0L)."
+        "instruction": "List high-end models with fuel capacity close to 9.",
+        "input": "Customer is interested in top-tier models meeting these criteria.",
+        "output": "Here are the top 5 models with fuel around 9.0L (±15%): 达芬骑 DC Classic (9.0L), ZERO SR/S (9.0L), ZERO SR (9.0L), 达芬骑 DC 100 (9.0L), EVOKE 6061 (9.0L)."
     },
     {
         "instruction": "Which premium models have fuel higher than 9.0L?",
-        "input": "Customer is looking for premium motorcycles within this specification range.",
-        "output": "Here are the top 5 models with fuel above 9.0L: 达芬骑 DC 100 Pure (9.0L), 柯瓦勒 奥丁 Odin (22.5L), 柯瓦勒 提尔 Tyr (15.0L), 柯瓦勒 雷神 Thor (22.5L), 北极星 RZR XP4 1000 (36.0L)."
+        "input": "Customer wants to compare high-end models with similar specifications.",
+        "output": "Here are the top 5 models with fuel above 9.0L: 达芬骑 DC Classic (9.0L), 柯瓦勒 提尔 Tyr (22.5L), 柯瓦勒 雷神 Thor (15.0L), 柯瓦勒 阿瑞斯 Ares (22.5L), 北极星 RZR XP4 Turbo S (36.0L)."
     },
     {
         "instruction": "Which luxury models have fuel lower than 9.0L?",
-        "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with fuel below 9.0L: 达芬骑 DC 100 Pure (9.0L), 轻骑 U俠一代 QM125-3XI (0.0L), 古思特 公爵 GST125T-12A (0.0L), 松散 America Chopper (0.0L), 北极星 游侠900 (0.0L)."
+        "input": "Customer is looking for premium motorcycles within this specification range.",
+        "output": "Here are the top 5 models with fuel below 9.0L: 达芬骑 DC Classic (9.0L), 柯瓦勒 奥丁 Odin (0.0L), 松散 America Chopper (0.0L), 松散 American FatTire (0.0L), 北极星 RZR XP4 1000 (0.0L)."
     },
     {
-        "instruction": "Which top-tier bikes have tank sizes like 14?",
+        "instruction": "List high-end models with fuel capacity close to 14.",
         "input": "Customer needs luxury options around this specification.",
-        "output": "Here are the top 5 models with fuel around 14.0L (±15%): 柯瓦勒 提尔 Tyr (15.0L), 胜利 Vegas 8-Ball (12.9L), 光阳 赛艇 L300 (14.0L), 光阳 王道 Myroad 700i (14.0L), 三阳 Citicom 300i (12.5L)."
+        "output": "Here are the top 5 models with fuel around 14.0L (±15%): 柯瓦勒 雷神 Thor (15.0L), 胜利 Octane (12.9L), 光阳 王道 Myroad 700i (14.0L), 光阳 AK550 (14.0L), 三阳 Maxsym TL (12.5L)."
     },
     {
         "instruction": "Which premium models have fuel higher than 14.0L?",
-        "input": "Customer wants to see the most expensive models in this category.",
-        "output": "Here are the top 5 models with fuel above 14.0L: 柯瓦勒 奥丁 Odin (22.5L), 柯瓦勒 提尔 Tyr (15.0L), 柯瓦勒 雷神 Thor (22.5L), 北极星 RZR XP4 1000 (36.0L), 乌拉尔 M70 (26.8L)."
+        "input": "Customer wants to compare high-end models with similar specifications.",
+        "output": "Here are the top 5 models with fuel above 14.0L: 柯瓦勒 提尔 Tyr (22.5L), 柯瓦勒 雷神 Thor (15.0L), 柯瓦勒 阿瑞斯 Ares (22.5L), 北极星 RZR XP4 Turbo S (36.0L), 乌拉尔 装甲兵 (26.8L)."
     },
     {
         "instruction": "Which luxury models have fuel lower than 14.0L?",
-        "input": "Customer wants to compare high-end models with similar specifications.",
-        "output": "Here are the top 5 models with fuel below 14.0L: 达芬骑 DC 100 Pure (9.0L), 轻骑 U俠一代 QM125-3XI (0.0L), 古思特 公爵 GST125T-12A (0.0L), 松散 America Chopper (0.0L), 北极星 游侠900 (0.0L)."
+        "input": "Customer is interested in top-tier models meeting these criteria.",
+        "output": "Here are the top 5 models with fuel below 14.0L: 达芬骑 DC Classic (9.0L), 柯瓦勒 奥丁 Odin (0.0L), 松散 America Chopper (0.0L), 松散 American FatTire (0.0L), 北极星 RZR XP4 1000 (0.0L)."
     }
 ]

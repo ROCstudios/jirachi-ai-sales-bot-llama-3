@@ -1,82 +1,82 @@
 [
     {
         "instruction": "Provide the model\u2019s dimensions when the customer asks about specifications.",
-        "input": "The customer brought up specification inquiry options.",
+        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
         "output": "The model\u2019s dimensions are 1960\u00d7820\u00d71220 mm. Do you need additional specifications?"
     },
     {
         "instruction": "Respond with model size if the customer inquires about product specifications.",
-        "input": "The customer brought up specification inquiry options.",
-        "output": "The model\u2019s dimensions are 1960\u00d7820\u00d71220 mm. Do you need additional specifications?"
-    },
-    {
-        "instruction": "Mention product dimensions when the customer requests specifications.",
         "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
         "output": "The model\u2019s dimensions are 1960\u00d7820\u00d71220 mm. Do you need additional specifications?"
     },
     {
+        "instruction": "Mention product dimensions when the customer requests specifications.",
+        "input": "The customer brought up specification inquiry options.",
+        "output": "The model\u2019s dimensions are 1960\u00d7820\u00d71220 mm. Do you need additional specifications?"
+    },
+    {
         "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
-        "input": "The customer asked about specification inquiry.",
+        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
         "output": "The model\u2019s dimensions are 1960\u00d7820\u00d71220 mm. Do you need additional specifications?"
     },
     {
         "instruction": "Offer the dimensions of the model if specifications are requested.",
-        "input": "The customer asked about specification inquiry.",
+        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
         "output": "The model\u2019s dimensions are 1960\u00d7820\u00d71220 mm. Do you need additional specifications?"
-    },
-    {
-        "instruction": "Provide the model\u2019s dimensions when the customer asks about specifications.",
-        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
-        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
-    },
-    {
-        "instruction": "Respond with model size if the customer inquires about product specifications.",
-        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
-        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
-    },
-    {
-        "instruction": "Mention product dimensions when the customer requests specifications.",
-        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
-        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
-    },
-    {
-        "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
-        "input": "The customer asked about specification inquiry.",
-        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
-    },
-    {
-        "instruction": "Offer the dimensions of the model if specifications are requested.",
-        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
-        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
-    },
-    {
-        "instruction": "Provide the model\u2019s dimensions when the customer asks about specifications.",
-        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
-        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
-    },
-    {
-        "instruction": "Respond with model size if the customer inquires about product specifications.",
-        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
-        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
-    },
-    {
-        "instruction": "Mention product dimensions when the customer requests specifications.",
-        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
-        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
-    },
-    {
-        "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
-        "input": "The customer asked about specification inquiry.",
-        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
-    },
-    {
-        "instruction": "Offer the dimensions of the model if specifications are requested.",
-        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
-        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
     },
     {
         "instruction": "Provide the model\u2019s dimensions when the customer asks about specifications.",
         "input": "The customer brought up specification inquiry options.",
+        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
+    },
+    {
+        "instruction": "Respond with model size if the customer inquires about product specifications.",
+        "input": "The customer asked about specification inquiry.",
+        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
+    },
+    {
+        "instruction": "Mention product dimensions when the customer requests specifications.",
+        "input": "The customer asked about specification inquiry.",
+        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
+    },
+    {
+        "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
+        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
+        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
+    },
+    {
+        "instruction": "Offer the dimensions of the model if specifications are requested.",
+        "input": "The customer brought up specification inquiry options.",
+        "output": "This model is sized at 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like further details."
+    },
+    {
+        "instruction": "Provide the model\u2019s dimensions when the customer asks about specifications.",
+        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
+        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
+    },
+    {
+        "instruction": "Respond with model size if the customer inquires about product specifications.",
+        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
+        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
+    },
+    {
+        "instruction": "Mention product dimensions when the customer requests specifications.",
+        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
+        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
+    },
+    {
+        "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
+        "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
+        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
+    },
+    {
+        "instruction": "Offer the dimensions of the model if specifications are requested.",
+        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
+        "output": "Would you like more information beyond the dimensions (1960\u00d7820\u00d71220 mm)?"
+    },
+    {
+        "instruction": "Provide the model\u2019s dimensions when the customer asks about specifications.",
+        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
         "output": "The size of this model is 1960\u00d7820\u00d71220 mm. Are there other specifications you need?"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
         "instruction": "Mention product dimensions when the customer requests specifications.",
-        "input": "The customer asked about specification inquiry.",
+        "input": "The customer brought up specification inquiry options.",
         "output": "The size of this model is 1960\u00d7820\u00d71220 mm. Are there other specifications you need?"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
         "instruction": "Offer the dimensions of the model if specifications are requested.",
-        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
+        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
         "output": "The size of this model is 1960\u00d7820\u00d71220 mm. Are there other specifications you need?"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
         "instruction": "Respond with model size if the customer inquires about product specifications.",
-        "input": "The customer brought up specification inquiry options.",
+        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
         "output": "Our model measures 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like more details."
     },
     {
         "instruction": "Mention product dimensions when the customer requests specifications.",
-        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
+        "input": "The customer brought up specification inquiry options.",
         "output": "Our model measures 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like more details."
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "instruction": "Offer the dimensions of the model if specifications are requested.",
-        "input": "The customer brought up specification inquiry options.",
+        "input": "The customer asked about specification inquiry.",
         "output": "Our model measures 1960\u00d7820\u00d71220 mm. Let us know if you\u2019d like more details."
     },
     {
@@ -131,27 +131,27 @@
     },
     {
         "instruction": "Respond with model size if the customer inquires about product specifications.",
-        "input": "The customer asked about specification inquiry.",
-        "output": "The dimensions for this model are 1960\u00d7820\u00d71220 mm. Would you like further specifics?"
-    },
-    {
-        "instruction": "Mention product dimensions when the customer requests specifications.",
-        "input": "The customer brought up specification inquiry options.",
-        "output": "The dimensions for this model are 1960\u00d7820\u00d71220 mm. Would you like further specifics?"
-    },
-    {
-        "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
         "input": "Keywords such as specification, dimensions, size, length, width, thickness, Density were mentioned by the customer.",
         "output": "The dimensions for this model are 1960\u00d7820\u00d71220 mm. Would you like further specifics?"
     },
     {
+        "instruction": "Mention product dimensions when the customer requests specifications.",
+        "input": "The customer asked about specification inquiry.",
+        "output": "The dimensions for this model are 1960\u00d7820\u00d71220 mm. Would you like further specifics?"
+    },
+    {
+        "instruction": "When the customer asks about size, provide model dimensions and ask if they need more.",
+        "input": "The customer inquired regarding specification, dimensions, size, length, width, thickness, Density.",
+        "output": "The dimensions for this model are 1960\u00d7820\u00d71220 mm. Would you like further specifics?"
+    },
+    {
         "instruction": "Offer the dimensions of the model if specifications are requested.",
-        "input": "The customer brought up specification inquiry options.",
+        "input": "The customer mentioned specification, dimensions, size, length, width, thickness, Density.",
         "output": "The dimensions for this model are 1960\u00d7820\u00d71220 mm. Would you like further specifics?"
     },
     {
         "instruction": "Respond appropriately based on customer inquiry.",
-        "input": "The customer brought up quantity inquiry options.",
+        "input": "The customer inquired regarding quantity, amount, volume, units, area, Coverage.",
         "output": "Please provide additional details."
     },
     {
@@ -161,82 +161,82 @@
     },
     {
         "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
-        "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
-    },
-    {
-        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
         "input": "The customer asked about delivery inquiry.",
         "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
     },
     {
+        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
+        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
+        "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
+    },
+    {
         "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
-        "input": "The customer brought up delivery inquiry options.",
-        "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
-    },
-    {
-        "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
-        "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
-    },
-    {
-        "instruction": "Ask for the delivery timing if the customer mentions delivery or timing.",
-        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
-        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
-    },
-    {
-        "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
         "input": "The customer asked about delivery inquiry.",
-        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
-    },
-    {
-        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
-        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
-        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
-    },
-    {
-        "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
-        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
-        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
+        "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
     },
     {
         "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
-        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
-        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
-    },
-    {
-        "instruction": "Ask for the delivery timing if the customer mentions delivery or timing.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
-        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
-    },
-    {
-        "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
-        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
-        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
-    },
-    {
-        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
-        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
-        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
-    },
-    {
-        "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
-        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
-    },
-    {
-        "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
-        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
-        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
+        "input": "The customer asked about delivery inquiry.",
+        "output": "Could you tell us your preferred delivery date or timing? We\u2019ll align production and shipping accordingly."
     },
     {
         "instruction": "Ask for the delivery timing if the customer mentions delivery or timing.",
         "input": "The customer brought up delivery inquiry options.",
-        "output": "Could you specify when you\u2019d like the items to be delivered? We\u2019ll handle the arrangements."
+        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
+    },
+    {
+        "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
+        "input": "The customer asked about delivery inquiry.",
+        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
+    },
+    {
+        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
+        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
+        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
+    },
+    {
+        "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
+        "input": "The customer asked about delivery inquiry.",
+        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
+    },
+    {
+        "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
+        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
+        "output": "When would be an ideal time for delivery? This helps us plan our schedule."
+    },
+    {
+        "instruction": "Ask for the delivery timing if the customer mentions delivery or timing.",
+        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
+        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
     },
     {
         "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
         "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
+        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
+    },
+    {
+        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
+        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
+        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
+    },
+    {
+        "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
+        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
+        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
+    },
+    {
+        "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
+        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
+        "output": "Please share the timing you have in mind for delivery, and we\u2019ll coordinate to meet your needs."
+    },
+    {
+        "instruction": "Ask for the delivery timing if the customer mentions delivery or timing.",
+        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
+        "output": "Could you specify when you\u2019d like the items to be delivered? We\u2019ll handle the arrangements."
+    },
+    {
+        "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
+        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
         "output": "Could you specify when you\u2019d like the items to be delivered? We\u2019ll handle the arrangements."
     },
     {
@@ -246,12 +246,12 @@
     },
     {
         "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
+        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
         "output": "Could you specify when you\u2019d like the items to be delivered? We\u2019ll handle the arrangements."
     },
     {
         "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
+        "input": "The customer brought up delivery inquiry options.",
         "output": "Could you specify when you\u2019d like the items to be delivered? We\u2019ll handle the arrangements."
     },
     {
@@ -261,32 +261,32 @@
     },
     {
         "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
-        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
-        "output": "What timeline works best for you for delivery? Let us know so we can coordinate."
-    },
-    {
-        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
         "input": "The customer brought up delivery inquiry options.",
         "output": "What timeline works best for you for delivery? Let us know so we can coordinate."
     },
     {
+        "instruction": "Inquire about preferred delivery date if the customer brings up timing.",
+        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
+        "output": "What timeline works best for you for delivery? Let us know so we can coordinate."
+    },
+    {
         "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
-        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
+        "input": "The customer asked about delivery inquiry.",
         "output": "What timeline works best for you for delivery? Let us know so we can coordinate."
     },
     {
         "instruction": "When timing is mentioned, ask for the customer\u2019s expected delivery schedule.",
-        "input": "The customer asked about delivery inquiry.",
+        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
         "output": "What timeline works best for you for delivery? Let us know so we can coordinate."
     },
     {
         "instruction": "Ask for the delivery timing if the customer mentions delivery or timing.",
-        "input": "The customer asked about delivery inquiry.",
+        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
         "output": "For scheduling, could you let us know the delivery timing you have in mind?"
     },
     {
         "instruction": "Request delivery preferences when the customer discusses timing or delivery.",
-        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
+        "input": "The customer mentioned delivery, arrival, port, destination, ETA.",
         "output": "For scheduling, could you let us know the delivery timing you have in mind?"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "instruction": "Ask for delivery details when the customer inquires about delivery timing.",
-        "input": "Keywords such as delivery, arrival, port, destination, ETA were mentioned by the customer.",
+        "input": "The customer inquired regarding delivery, arrival, port, destination, ETA.",
         "output": "For scheduling, could you let us know the delivery timing you have in mind?"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "instruction": "Respond appropriately based on customer inquiry.",
-        "input": "The customer asked about order timing.",
+        "input": "The customer brought up order timing options.",
         "output": "Please provide additional details."
     },
     {
@@ -316,27 +316,27 @@
     },
     {
         "instruction": "Respond appropriately based on customer inquiry.",
-        "input": "The customer brought up market conditions options.",
+        "input": "The customer mentioned market, country, conditions, demands.",
         "output": "Please provide additional details."
     },
     {
         "instruction": "Request forwarding contact information if the customer brings up shipping.",
-        "input": "The customer mentioned freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "The customer brought up freight forwarder options.",
         "output": "Could you provide your company and forwarder\u2019s contact information to facilitate shipping?"
     },
     {
         "instruction": "Ask for the customer\u2019s freight forwarder details when they inquire about shipping.",
-        "input": "The customer mentioned freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "The customer brought up freight forwarder options.",
         "output": "Could you provide your company and forwarder\u2019s contact information to facilitate shipping?"
     },
     {
         "instruction": "When freight forwarding is mentioned, prompt the customer for forwarding details.",
-        "input": "The customer mentioned freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
         "output": "Could you provide your company and forwarder\u2019s contact information to facilitate shipping?"
     },
     {
         "instruction": "Inquire about the freight forwarder if the customer discusses shipping needs.",
-        "input": "The customer asked about freight forwarder.",
+        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
         "output": "Could you provide your company and forwarder\u2019s contact information to facilitate shipping?"
     },
     {
@@ -351,7 +351,7 @@
     },
     {
         "instruction": "Ask for the customer\u2019s freight forwarder details when they inquire about shipping.",
-        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
+        "input": "The customer mentioned freight, forwarder, forwarding, agent, transport, Contact.",
         "output": "To ensure timely delivery, may we have your forwarder\u2019s contact information?"
     },
     {
@@ -361,27 +361,27 @@
     },
     {
         "instruction": "Inquire about the freight forwarder if the customer discusses shipping needs.",
-        "input": "The customer brought up freight forwarder options.",
+        "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
         "output": "To ensure timely delivery, may we have your forwarder\u2019s contact information?"
     },
     {
         "instruction": "Request the forwarder\u2019s contact info if the customer talks about arranging freight.",
-        "input": "The customer brought up freight forwarder options.",
+        "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
         "output": "To ensure timely delivery, may we have your forwarder\u2019s contact information?"
     },
     {
         "instruction": "Request forwarding contact information if the customer brings up shipping.",
-        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
+        "input": "The customer brought up freight forwarder options.",
         "output": "Please share the contact details for your freight forwarder to assist with coordination."
     },
     {
         "instruction": "Ask for the customer\u2019s freight forwarder details when they inquire about shipping.",
-        "input": "The customer mentioned freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "The customer asked about freight forwarder.",
         "output": "Please share the contact details for your freight forwarder to assist with coordination."
     },
     {
         "instruction": "When freight forwarding is mentioned, prompt the customer for forwarding details.",
-        "input": "The customer mentioned freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "The customer brought up freight forwarder options.",
         "output": "Please share the contact details for your freight forwarder to assist with coordination."
     },
     {
@@ -391,37 +391,37 @@
     },
     {
         "instruction": "Request the forwarder\u2019s contact info if the customer talks about arranging freight.",
-        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
+        "input": "The customer asked about freight forwarder.",
         "output": "Please share the contact details for your freight forwarder to assist with coordination."
     },
     {
         "instruction": "Request forwarding contact information if the customer brings up shipping.",
-        "input": "The customer asked about freight forwarder.",
+        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
         "output": "To help arrange your shipment, could you provide your forwarder\u2019s contact information?"
     },
     {
         "instruction": "Ask for the customer\u2019s freight forwarder details when they inquire about shipping.",
-        "input": "The customer brought up freight forwarder options.",
+        "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
         "output": "To help arrange your shipment, could you provide your forwarder\u2019s contact information?"
     },
     {
         "instruction": "When freight forwarding is mentioned, prompt the customer for forwarding details.",
-        "input": "The customer asked about freight forwarder.",
+        "input": "The customer brought up freight forwarder options.",
         "output": "To help arrange your shipment, could you provide your forwarder\u2019s contact information?"
     },
     {
         "instruction": "Inquire about the freight forwarder if the customer discusses shipping needs.",
-        "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
         "output": "To help arrange your shipment, could you provide your forwarder\u2019s contact information?"
     },
     {
         "instruction": "Request the forwarder\u2019s contact info if the customer talks about arranging freight.",
-        "input": "The customer brought up freight forwarder options.",
+        "input": "The customer asked about freight forwarder.",
         "output": "To help arrange your shipment, could you provide your forwarder\u2019s contact information?"
     },
     {
         "instruction": "Request forwarding contact information if the customer brings up shipping.",
-        "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
+        "input": "The customer asked about freight forwarder.",
         "output": "Could you confirm your forwarder\u2019s details so we can coordinate shipping?"
     },
     {
@@ -431,12 +431,12 @@
     },
     {
         "instruction": "When freight forwarding is mentioned, prompt the customer for forwarding details.",
-        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
+        "input": "The customer brought up freight forwarder options.",
         "output": "Could you confirm your forwarder\u2019s details so we can coordinate shipping?"
     },
     {
         "instruction": "Inquire about the freight forwarder if the customer discusses shipping needs.",
-        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
+        "input": "The customer asked about freight forwarder.",
         "output": "Could you confirm your forwarder\u2019s details so we can coordinate shipping?"
     },
     {
@@ -451,17 +451,17 @@
     },
     {
         "instruction": "Ask for the customer\u2019s freight forwarder details when they inquire about shipping.",
-        "input": "The customer asked about freight forwarder.",
-        "output": "For shipment, could you provide us with your forwarding agent\u2019s contact details?"
-    },
-    {
-        "instruction": "When freight forwarding is mentioned, prompt the customer for forwarding details.",
         "input": "The customer inquired regarding freight, forwarder, forwarding, agent, transport, Contact.",
         "output": "For shipment, could you provide us with your forwarding agent\u2019s contact details?"
     },
     {
-        "instruction": "Inquire about the freight forwarder if the customer discusses shipping needs.",
+        "instruction": "When freight forwarding is mentioned, prompt the customer for forwarding details.",
         "input": "The customer asked about freight forwarder.",
+        "output": "For shipment, could you provide us with your forwarding agent\u2019s contact details?"
+    },
+    {
+        "instruction": "Inquire about the freight forwarder if the customer discusses shipping needs.",
+        "input": "Keywords such as freight, forwarder, forwarding, agent, transport, Contact were mentioned by the customer.",
         "output": "For shipment, could you provide us with your forwarding agent\u2019s contact details?"
     },
     {
@@ -471,7 +471,7 @@
     },
     {
         "instruction": "Ask the customer about their payment method preferences if they mention payment.",
-        "input": "The customer brought up payment method options.",
+        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
         "output": "Could you tell me which payment method you would like to use? We support T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -481,12 +481,12 @@
     },
     {
         "instruction": "Guide the customer on available payment methods when they bring up payment.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
+        "input": "The customer brought up payment method options.",
         "output": "Could you tell me which payment method you would like to use? We support T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
         "instruction": "Mention payment options if the customer expresses interest in payment methods.",
-        "input": "The customer asked about payment method.",
+        "input": "The customer brought up payment method options.",
         "output": "Could you tell me which payment method you would like to use? We support T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -496,17 +496,17 @@
     },
     {
         "instruction": "Ask the customer about their payment method preferences if they mention payment.",
-        "input": "The customer asked about payment method.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
         "output": "What payment option works best for you? We accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
         "instruction": "Respond with our supported payment methods if the customer asks about payment options.",
-        "input": "The customer brought up payment method options.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
         "output": "What payment option works best for you? We accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
         "instruction": "Guide the customer on available payment methods when they bring up payment.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
+        "input": "The customer asked about payment method.",
         "output": "What payment option works best for you? We accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -516,7 +516,7 @@
     },
     {
         "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
+        "input": "The customer brought up payment method options.",
         "output": "What payment option works best for you? We accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -526,7 +526,7 @@
     },
     {
         "instruction": "Respond with our supported payment methods if the customer asks about payment options.",
-        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
+        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
         "output": "Please let me know your preferred payment method. We offer T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -541,7 +541,7 @@
     },
     {
         "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
-        "input": "The customer brought up payment method options.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
         "output": "Please let me know your preferred payment method. We offer T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -551,7 +551,7 @@
     },
     {
         "instruction": "Respond with our supported payment methods if the customer asks about payment options.",
-        "input": "The customer brought up payment method options.",
+        "input": "The customer asked about payment method.",
         "output": "Could you share your preferred payment option? We can accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -561,47 +561,47 @@
     },
     {
         "instruction": "Mention payment options if the customer expresses interest in payment methods.",
+        "input": "The customer brought up payment method options.",
+        "output": "Could you share your preferred payment option? We can accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
+    },
+    {
+        "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
+        "input": "The customer asked about payment method.",
+        "output": "Could you share your preferred payment option? We can accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
+    },
+    {
+        "instruction": "Ask the customer about their payment method preferences if they mention payment.",
+        "input": "The customer asked about payment method.",
+        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
+    },
+    {
+        "instruction": "Respond with our supported payment methods if the customer asks about payment options.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
+        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
+    },
+    {
+        "instruction": "Guide the customer on available payment methods when they bring up payment.",
+        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
+        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
+    },
+    {
+        "instruction": "Mention payment options if the customer expresses interest in payment methods.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
+        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
+    },
+    {
+        "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
         "input": "The customer inquired regarding Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
-        "output": "Could you share your preferred payment option? We can accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
-    },
-    {
-        "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
-        "output": "Could you share your preferred payment option? We can accept T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
+        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
     },
     {
         "instruction": "Ask the customer about their payment method preferences if they mention payment.",
-        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
-        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
-    },
-    {
-        "instruction": "Respond with our supported payment methods if the customer asks about payment options.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
-        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
-    },
-    {
-        "instruction": "Guide the customer on available payment methods when they bring up payment.",
-        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
-        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
-    },
-    {
-        "instruction": "Mention payment options if the customer expresses interest in payment methods.",
-        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
-        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
-    },
-    {
-        "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
         "input": "The customer brought up payment method options.",
-        "output": "For payment, would T/T, L/C, D/P, D/A, MoneyGram, or Credit Card work best for you?"
-    },
-    {
-        "instruction": "Ask the customer about their payment method preferences if they mention payment.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
         "output": "To proceed with your order, which payment method suits you best? We have options like T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
         "instruction": "Respond with our supported payment methods if the customer asks about payment options.",
-        "input": "The customer brought up payment method options.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
         "output": "To proceed with your order, which payment method suits you best? We have options like T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     },
     {
@@ -616,7 +616,7 @@
     },
     {
         "instruction": "Provide payment method details if the customer mentions paying or payment methods.",
-        "input": "Keywords such as Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card were mentioned by the customer.",
+        "input": "The customer mentioned Payment, T/T, L/C, D/P, D/A, MoneyGram, Credit, Card.",
         "output": "To proceed with your order, which payment method suits you best? We have options like T/T, L/C, D/P, D/A, MoneyGram, and Credit Card."
     }
 ]
