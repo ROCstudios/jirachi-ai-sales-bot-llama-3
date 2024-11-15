@@ -1,433 +1,38 @@
 [
     {
-        "instruction": "Tell me about the Unknown Model.",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What type of motor does the Unknown Model have?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
         "instruction": "How many horsepower does the motor of the Unknown Model have?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model has a motor power of 1200W."
-    },
-    {
-        "instruction": "How big is the Unknown Model?",
-        "input": "",
-        "output": "The dimensions of the Unknown Model are 1780\u00d7680\u00d71140mm."
-    },
-    {
-        "instruction": "What is the seat height of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The seat height of the Unknown Model is 730mm."
-    },
-    {
-        "instruction": "Tell me about the wheelbase of the Unknown Model.",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The wheelbase of the Unknown Model is 1270mm."
-    },
-    {
-        "instruction": "What is the tyre size of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
-    },
-    {
-        "instruction": "How fast does the Unknown Model go?",
-        "input": "",
-        "output": "The max speed of the Unknown Model is 58 km/h."
-    },
-    {
-        "instruction": "What is the battery capacity of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The battery capacity of the Unknown Model is 60V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "How long does it take to charge the Unknown Model?",
-        "input": "",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "What type of brake system does the Unknown Model have?",
-        "input": "",
-        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
-    },
-    {
-        "instruction": "Give me details on the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "Is the Unknown Model equipped with a brushless motor?",
-        "input": "",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How powerful is the motor in the Unknown Model?",
         "input": "Customer is looking for specifications and handling details.",
         "output": "The Unknown Model has a motor power of 1200W."
     },
     {
         "instruction": "Tell me the length, width, and height of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The dimensions of the Unknown Model are 1750\u00d7680\u00d71140mm."
-    },
-    {
-        "instruction": "What is the seat height of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The seat height of the Unknown Model is 730mm."
-    },
-    {
-        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
-        "input": "",
-        "output": "The wheelbase of the Unknown Model is 1270mm."
-    },
-    {
-        "instruction": "What\u2019s the tyre size of the Unknown Model?",
-        "input": "",
-        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
-    },
-    {
-        "instruction": "How fast can the Unknown Model go?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The max speed of the Unknown Model is 58 km/h."
-    },
-    {
-        "instruction": "Tell me about the battery capacity of the Unknown Model.",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "What\u2019s the charging time for the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "What\u2019s the brake system like in the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
-    },
-    {
-        "instruction": "Give me details on the Unknown Model.",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What type of motor does the Unknown Model have?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "Tell me the motor power of the Unknown Model.",
-        "input": "",
-        "output": "The Unknown Model has a motor power of 1000W."
-    },
-    {
-        "instruction": "How big is the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The dimensions of the Unknown Model are 1780\u00d7680\u00d71140mm."
-    },
-    {
-        "instruction": "What\u2019s the seat height of the Unknown Model?",
-        "input": "",
-        "output": "The seat height of the Unknown Model is 730mm."
-    },
-    {
-        "instruction": "How long is the wheelbase of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The wheelbase of the Unknown Model is 1270mm."
-    },
-    {
-        "instruction": "What\u2019s the tyre size of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
-    },
-    {
-        "instruction": "What\u2019s the max speed of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The max speed of the Unknown Model is 58 km/h."
-    },
-    {
-        "instruction": "What is the battery capacity of the Unknown Model?",
-        "input": "",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "Tell me the charging time for the Unknown Model.",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "What type of brake system does the Unknown Model have?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
-    },
-    {
-        "instruction": "Tell me about the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What kind of motor is used in the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How many horsepower does the motor of the Unknown Model have?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model has a motor power of 1000W."
-    },
-    {
-        "instruction": "Tell me the length, width, and height of the Unknown Model.",
         "input": "Customer is looking for specifications and handling details.",
         "output": "The dimensions of the Unknown Model are 1780\u00d7680\u00d71140mm."
     },
     {
-        "instruction": "Tell me the seat height of the Unknown Model.",
+        "instruction": "How high is the seat on the Unknown Model?",
         "input": "Customer asked for performance and safety details.",
         "output": "The seat height of the Unknown Model is 730mm."
     },
     {
-        "instruction": "How long is the wheelbase of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "What is the wheelbase of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The wheelbase of the Unknown Model is 1270mm."
     },
     {
-        "instruction": "What\u2019s the tyre size of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
-    },
-    {
-        "instruction": "How fast can the Unknown Model go?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The max speed of the Unknown Model is 58 km/h."
-    },
-    {
-        "instruction": "What is the battery capacity of the Unknown Model?",
+        "instruction": "Tell me the tyre size for the Unknown Model.",
         "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "What\u2019s the charging time for the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "Does the Unknown Model have ABS or CBS?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
-    },
-    {
-        "instruction": "Can you describe the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What kind of motor is used in the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How powerful is the motor in the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model has a motor power of 1500W."
-    },
-    {
-        "instruction": "What are the dimensions of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The dimensions of the Unknown Model are 1850\u00d7680\u00d71140mm."
-    },
-    {
-        "instruction": "What is the seat height of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The seat height of the Unknown Model is 760mm."
-    },
-    {
-        "instruction": "Tell me about the wheelbase of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The wheelbase of the Unknown Model is 1300mm."
-    },
-    {
-        "instruction": "What\u2019s the tyre size of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The front and rear tyres of the Unknown Model are Fr.90/90-12; Rr.90/90-10."
-    },
-    {
-        "instruction": "What\u2019s the max speed of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The max speed of the Unknown Model is 68 km/h."
-    },
-    {
-        "instruction": "What is the battery capacity of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "Tell me the charging time for the Unknown Model.",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "What type of brake system does the Unknown Model have?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
-    },
-    {
-        "instruction": "Give me details on the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "Tell me about the motor of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "What\u2019s the power of the motor in the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model has a motor power of 1000W."
-    },
-    {
-        "instruction": "What is the size of the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The dimensions of the Unknown Model are 1850\u00d7680\u00d71140mm."
-    },
-    {
-        "instruction": "How tall is the seat of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The seat height of the Unknown Model is 730mm."
-    },
-    {
-        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The wheelbase of the Unknown Model is 1300mm."
-    },
-    {
-        "instruction": "Tell me the front and rear tyre sizes of the Unknown Model.",
-        "input": "Customer is looking for specifications and handling details.",
         "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
     },
     {
         "instruction": "What\u2019s the top speed of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The max speed of the Unknown Model is 58 km/h."
-    },
-    {
-        "instruction": "How much power does the battery of the Unknown Model have?",
         "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "How long does it take to charge the Unknown Model?",
-        "input": "",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "What\u2019s the brake system like in the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
-    },
-    {
-        "instruction": "Can you describe the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "Is the Unknown Model equipped with a brushless motor?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How many horsepower does the motor of the Unknown Model have?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model has a motor power of 1500W."
-    },
-    {
-        "instruction": "Can you tell me the dimensions of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The dimensions of the Unknown Model are 1850\u00d7780\u00d71180mm."
-    },
-    {
-        "instruction": "How tall is the seat of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The seat height of the Unknown Model is 760mm."
-    },
-    {
-        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
-        "input": "",
-        "output": "The wheelbase of the Unknown Model is 1300mm."
-    },
-    {
-        "instruction": "Tell me the tyre size for the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The front and rear tyres of the Unknown Model are Fr.90/90-12; Rr.90/90-12."
-    },
-    {
-        "instruction": "How fast can the Unknown Model go?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The max speed of the Unknown Model is 68 km/h."
-    },
-    {
-        "instruction": "Tell me about the battery capacity of the Unknown Model.",
-        "input": "",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
-    },
-    {
-        "instruction": "Tell me the charging time for the Unknown Model.",
-        "input": "",
-        "output": "The charging time for the Unknown Model is 6-8 hours."
-    },
-    {
-        "instruction": "What kind of braking system is used in the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
-    },
-    {
-        "instruction": "What is the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "Tell me about the motor of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How many horsepower does the motor of the Unknown Model have?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model has a motor power of 1000W."
-    },
-    {
-        "instruction": "Tell me the length, width, and height of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The dimensions of the Unknown Model are 1830\u00d7780\u00d71040mm."
-    },
-    {
-        "instruction": "What\u2019s the seat height of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The seat height of the Unknown Model is 780mm."
-    },
-    {
-        "instruction": "How long is the wheelbase of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The wheelbase of the Unknown Model is 1270mm."
-    },
-    {
-        "instruction": "What is the tyre size of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The front and rear tyres of the Unknown Model are Fr.130/70-12; Rr.130/70-12."
-    },
-    {
-        "instruction": "What\u2019s the max speed of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The max speed of the Unknown Model is 58 km/h."
     },
     {
         "instruction": "Tell me about the battery capacity of the Unknown Model.",
-        "input": "",
-        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The battery capacity of the Unknown Model is 60V-20Ah Lead-acid."
     },
     {
         "instruction": "What\u2019s the charge time for the Unknown Model?",
@@ -435,29 +40,19 @@
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "What type of brake system does the Unknown Model have?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
-    },
-    {
-        "instruction": "What is the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What is the motor type in the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
+        "instruction": "Does the Unknown Model have ABS or CBS?",
+        "input": "",
+        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
     },
     {
         "instruction": "What is the motor power of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The Unknown Model has a motor power of 1200W."
     },
     {
-        "instruction": "What are the dimensions of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The dimensions of the Unknown Model are 1750\u00d7680\u00d71250mm."
+        "instruction": "What is the size of the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The dimensions of the Unknown Model are 1750\u00d7680\u00d71140mm."
     },
     {
         "instruction": "What\u2019s the seat height of the Unknown Model?",
@@ -465,23 +60,23 @@
         "output": "The seat height of the Unknown Model is 730mm."
     },
     {
-        "instruction": "How far apart are the wheels on the Unknown Model?",
+        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
         "input": "Customer is looking for specifications and handling details.",
-        "output": "The wheelbase of the Unknown Model is 1250mm."
+        "output": "The wheelbase of the Unknown Model is 1270mm."
     },
     {
-        "instruction": "What\u2019s the tyre size of the Unknown Model?",
-        "input": "",
+        "instruction": "What is the tyre size of the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
         "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
     },
     {
         "instruction": "How fast does the Unknown Model go?",
-        "input": "Customer asked for performance and safety details.",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The max speed of the Unknown Model is 58 km/h."
     },
     {
         "instruction": "How much power does the battery of the Unknown Model have?",
-        "input": "",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
     },
     {
@@ -490,43 +85,348 @@
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "Tell me about the brakes on the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
-    },
-    {
-        "instruction": "Tell me about the model Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "Is the Unknown Model equipped with a brushless motor?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
+        "instruction": "What kind of braking system is used in the Unknown Model?",
+        "input": "",
+        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
     },
     {
         "instruction": "How many horsepower does the motor of the Unknown Model have?",
-        "input": "",
-        "output": "The Unknown Model has a motor power of 400W."
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The Unknown Model has a motor power of 1000W."
     },
     {
-        "instruction": "What are the dimensions of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The dimensions of the Unknown Model are 1690\u00d7730\u00d71065mm."
+        "instruction": "How big is the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The dimensions of the Unknown Model are 1780\u00d7680\u00d71140mm."
     },
     {
-        "instruction": "Tell me the seat height of the Unknown Model.",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "What\u2019s the seat height of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The seat height of the Unknown Model is 730mm."
     },
     {
-        "instruction": "How long is the wheelbase of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
+        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The wheelbase of the Unknown Model is 1270mm."
+    },
+    {
+        "instruction": "What\u2019s the tyre size of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
+    },
+    {
+        "instruction": "What\u2019s the max speed of the Unknown Model?",
+        "input": "",
+        "output": "The max speed of the Unknown Model is 58 km/h."
+    },
+    {
+        "instruction": "How much power does the battery of the Unknown Model have?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "How long does it take to charge the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "What type of brake system does the Unknown Model have?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
+    },
+    {
+        "instruction": "What\u2019s the power of the motor in the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The Unknown Model has a motor power of 1000W."
+    },
+    {
+        "instruction": "What is the size of the Unknown Model?",
+        "input": "",
+        "output": "The dimensions of the Unknown Model are 1780\u00d7680\u00d71140mm."
+    },
+    {
+        "instruction": "How high is the seat on the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The seat height of the Unknown Model is 730mm."
+    },
+    {
+        "instruction": "How far apart are the wheels on the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
         "output": "The wheelbase of the Unknown Model is 1270mm."
     },
     {
         "instruction": "What is the tyre size of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
+    },
+    {
+        "instruction": "How fast does the Unknown Model go?",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The max speed of the Unknown Model is 58 km/h."
+    },
+    {
+        "instruction": "Tell me about the battery capacity of the Unknown Model.",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "What\u2019s the charging time for the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "Tell me about the brakes on the Unknown Model.",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
+    },
+    {
+        "instruction": "What is the motor power of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The Unknown Model has a motor power of 1500W."
+    },
+    {
+        "instruction": "Tell me the length, width, and height of the Unknown Model.",
         "input": "Customer asked for performance and safety details.",
+        "output": "The dimensions of the Unknown Model are 1850\u00d7680\u00d71140mm."
+    },
+    {
+        "instruction": "What\u2019s the seat height of the Unknown Model?",
+        "input": "",
+        "output": "The seat height of the Unknown Model is 760mm."
+    },
+    {
+        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
+        "input": "",
+        "output": "The wheelbase of the Unknown Model is 1300mm."
+    },
+    {
+        "instruction": "Tell me the front and rear tyre sizes of the Unknown Model.",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The front and rear tyres of the Unknown Model are Fr.90/90-12; Rr.90/90-10."
+    },
+    {
+        "instruction": "What is the maximum speed of the Unknown Model?",
+        "input": "",
+        "output": "The max speed of the Unknown Model is 68 km/h."
+    },
+    {
+        "instruction": "How big is the battery in the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "What\u2019s the charging time for the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "What kind of braking system is used in the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
+    },
+    {
+        "instruction": "How powerful is the motor in the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The Unknown Model has a motor power of 1000W."
+    },
+    {
+        "instruction": "Tell me the length, width, and height of the Unknown Model.",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The dimensions of the Unknown Model are 1850\u00d7680\u00d71140mm."
+    },
+    {
+        "instruction": "What is the seat height of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The seat height of the Unknown Model is 730mm."
+    },
+    {
+        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The wheelbase of the Unknown Model is 1300mm."
+    },
+    {
+        "instruction": "What\u2019s the tyre size of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
+    },
+    {
+        "instruction": "How fast can the Unknown Model go?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The max speed of the Unknown Model is 58 km/h."
+    },
+    {
+        "instruction": "What\u2019s the battery capacity of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "What\u2019s the charging time for the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "Does the Unknown Model have ABS or CBS?",
+        "input": "",
+        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
+    },
+    {
+        "instruction": "What is the motor power of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The Unknown Model has a motor power of 1500W."
+    },
+    {
+        "instruction": "What is the size of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The dimensions of the Unknown Model are 1850\u00d7780\u00d71180mm."
+    },
+    {
+        "instruction": "What is the seat height of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The seat height of the Unknown Model is 760mm."
+    },
+    {
+        "instruction": "What is the wheelbase of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The wheelbase of the Unknown Model is 1300mm."
+    },
+    {
+        "instruction": "What size tyres are used in the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The front and rear tyres of the Unknown Model are Fr.90/90-12; Rr.90/90-12."
+    },
+    {
+        "instruction": "What\u2019s the top speed of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The max speed of the Unknown Model is 68 km/h."
+    },
+    {
+        "instruction": "How much power does the battery of the Unknown Model have?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "How much time does it take to fully charge the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "Does the Unknown Model have ABS or CBS?",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
+    },
+    {
+        "instruction": "How many horsepower does the motor of the Unknown Model have?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The Unknown Model has a motor power of 1000W."
+    },
+    {
+        "instruction": "How big is the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
+        "output": "The dimensions of the Unknown Model are 1830\u00d7780\u00d71040mm."
+    },
+    {
+        "instruction": "How tall is the seat of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The seat height of the Unknown Model is 780mm."
+    },
+    {
+        "instruction": "What is the wheelbase of the Unknown Model?",
+        "input": "",
+        "output": "The wheelbase of the Unknown Model is 1270mm."
+    },
+    {
+        "instruction": "What size tyres are used in the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The front and rear tyres of the Unknown Model are Fr.130/70-12; Rr.130/70-12."
+    },
+    {
+        "instruction": "What is the maximum speed of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The max speed of the Unknown Model is 58 km/h."
+    },
+    {
+        "instruction": "How much power does the battery of the Unknown Model have?",
+        "input": "",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "How long does it take to charge the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "What kind of braking system is used in the Unknown Model?",
+        "input": "",
+        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
+    },
+    {
+        "instruction": "What is the motor power of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The Unknown Model has a motor power of 1200W."
+    },
+    {
+        "instruction": "What are the dimensions of the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The dimensions of the Unknown Model are 1750\u00d7680\u00d71250mm."
+    },
+    {
+        "instruction": "How tall is the seat of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The seat height of the Unknown Model is 730mm."
+    },
+    {
+        "instruction": "How far apart are the wheels on the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The wheelbase of the Unknown Model is 1250mm."
+    },
+    {
+        "instruction": "Tell me the front and rear tyre sizes of the Unknown Model.",
+        "input": "",
+        "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
+    },
+    {
+        "instruction": "How fast does the Unknown Model go?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The max speed of the Unknown Model is 58 km/h."
+    },
+    {
+        "instruction": "What\u2019s the battery capacity of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
+    },
+    {
+        "instruction": "What\u2019s the charging time for the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The charging time for the Unknown Model is 6-8 hours."
+    },
+    {
+        "instruction": "Does the Unknown Model have ABS or CBS?",
+        "input": "",
+        "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
+    },
+    {
+        "instruction": "What is the motor power of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The Unknown Model has a motor power of 400W."
+    },
+    {
+        "instruction": "What are the dimensions of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
+        "output": "The dimensions of the Unknown Model are 1690\u00d7730\u00d71065mm."
+    },
+    {
+        "instruction": "What\u2019s the seat height of the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
+        "output": "The seat height of the Unknown Model is 730mm."
+    },
+    {
+        "instruction": "Tell me about the wheelbase of the Unknown Model.",
+        "input": "Customer is interested in the design and power of the {model}.",
+        "output": "The wheelbase of the Unknown Model is 1270mm."
+    },
+    {
+        "instruction": "What size tyres are used in the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The front and rear tyres of the Unknown Model are Fr.60/100-12; Rr.60/100-12."
     },
     {
@@ -535,113 +435,93 @@
         "output": "The max speed of the Unknown Model is 58 km/h."
     },
     {
-        "instruction": "How big is the battery in the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
+        "instruction": "What\u2019s the battery capacity of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
     },
     {
-        "instruction": "Tell me the charging time for the Unknown Model.",
-        "input": "",
+        "instruction": "What\u2019s the charge time for the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "What\u2019s the brake system like in the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "What kind of braking system is used in the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The Unknown Model features a Front Disc & Rear Drum brake system."
     },
     {
-        "instruction": "Give me details on the Unknown Model.",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What type of motor does the Unknown Model have?",
-        "input": "Customer wants to know about the bike\u2019s features.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How powerful is the motor in the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "What is the motor power of the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
         "output": "The Unknown Model has a motor power of 1500W."
     },
     {
-        "instruction": "Tell me the length, width, and height of the Unknown Model.",
-        "input": "Customer is looking for specifications and handling details.",
+        "instruction": "What is the size of the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
         "output": "The dimensions of the Unknown Model are 1950\u00d7680\u00d71140mm."
     },
     {
-        "instruction": "What\u2019s the seat height of the Unknown Model?",
-        "input": "",
+        "instruction": "Tell me the seat height of the Unknown Model.",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The seat height of the Unknown Model is 760mm."
     },
     {
-        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
+        "instruction": "Tell me about the wheelbase of the Unknown Model.",
         "input": "",
         "output": "The wheelbase of the Unknown Model is 1350mm."
     },
     {
-        "instruction": "What is the tyre size of the Unknown Model?",
+        "instruction": "What\u2019s the tyre size of the Unknown Model?",
         "input": "Customer is interested in the design and power of the {model}.",
         "output": "The front and rear tyres of the Unknown Model are Fr.110/70-14; Rr.100/80-14."
     },
     {
-        "instruction": "What is the maximum speed of the Unknown Model?",
+        "instruction": "What\u2019s the top speed of the Unknown Model?",
         "input": "",
         "output": "The max speed of the Unknown Model is 68 km/h."
     },
     {
         "instruction": "Tell me about the battery capacity of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
     },
     {
-        "instruction": "What\u2019s the charging time for the Unknown Model?",
+        "instruction": "How long does it take to charge the Unknown Model?",
         "input": "Customer asked for performance and safety details.",
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "What kind of braking system is used in the Unknown Model?",
+        "instruction": "Does the Unknown Model have ABS or CBS?",
         "input": "Customer asked for performance and safety details.",
         "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
     },
     {
-        "instruction": "Give me details on the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What kind of motor is used in the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
         "instruction": "What is the motor power of the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
+        "input": "",
         "output": "The Unknown Model has a motor power of 1200W."
     },
     {
-        "instruction": "Tell me the length, width, and height of the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "How big is the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The dimensions of the Unknown Model are 1900\u00d7680\u00d71150mm."
     },
     {
-        "instruction": "What\u2019s the seat height of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "What is the seat height of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The seat height of the Unknown Model is 740mm."
     },
     {
-        "instruction": "How far apart are the wheels on the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
+        "instruction": "How long is the wheelbase of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The wheelbase of the Unknown Model is 1350mm."
     },
     {
-        "instruction": "Tell me the tyre size for the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "Tell me the front and rear tyre sizes of the Unknown Model.",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The front and rear tyres of the Unknown Model are Fr.3.0-10; Rr.3.0-10."
     },
     {
         "instruction": "How fast can the Unknown Model go?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The max speed of the Unknown Model is 58 km/h."
     },
     {
@@ -650,24 +530,14 @@
         "output": "The battery capacity of the Unknown Model is 72V-20Ah Lead-acid."
     },
     {
-        "instruction": "Tell me the charging time for the Unknown Model.",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "How long does it take to charge the Unknown Model?",
+        "input": "",
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "What kind of braking system is used in the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "Does the Unknown Model have ABS or CBS?",
+        "input": "",
         "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
-    },
-    {
-        "instruction": "Tell me about the Unknown Model.",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "What kind of motor is used in the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
     },
     {
         "instruction": "What\u2019s the power of the motor in the Unknown Model?",
@@ -675,33 +545,33 @@
         "output": "The Unknown Model has a motor power of 1500W."
     },
     {
-        "instruction": "How big is the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
+        "instruction": "What is the size of the Unknown Model?",
+        "input": "Customer is looking for specifications and handling details.",
         "output": "The dimensions of the Unknown Model are 1900\u00d7700\u00d71166mm."
     },
     {
-        "instruction": "What is the seat height of the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
+        "instruction": "What\u2019s the seat height of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The seat height of the Unknown Model is 690mm."
     },
     {
-        "instruction": "What\u2019s the wheelbase of the Unknown Model?",
-        "input": "",
+        "instruction": "How far apart are the wheels on the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The wheelbase of the Unknown Model is 1450mm."
     },
     {
-        "instruction": "What size tyres are used in the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
+        "instruction": "Tell me the front and rear tyre sizes of the Unknown Model.",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The front and rear tyres of the Unknown Model are Fr.225/55-8; Rr.225/55-8."
     },
     {
-        "instruction": "What\u2019s the top speed of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "What\u2019s the max speed of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The max speed of the Unknown Model is 58 km/h."
     },
     {
-        "instruction": "What is the battery capacity of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "How big is the battery in the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The battery capacity of the Unknown Model is 60V-20Ah Lead-acid."
     },
     {
@@ -710,63 +580,53 @@
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "What kind of braking system is used in the Unknown Model?",
-        "input": "Customer is interested in the design and power of the {model}.",
+        "instruction": "What type of brake system does the Unknown Model have?",
+        "input": "Customer asked for performance and safety details.",
         "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
     },
     {
-        "instruction": "What is the Unknown Model?",
+        "instruction": "How many horsepower does the motor of the Unknown Model have?",
         "input": "",
-        "output": "The Unknown Model is a great option with great features."
-    },
-    {
-        "instruction": "Is the Unknown Model equipped with a brushless motor?",
-        "input": "Customer is looking for specifications and handling details.",
-        "output": "The Unknown Model has a Brushless DC hub motor motor."
-    },
-    {
-        "instruction": "How powerful is the motor in the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
         "output": "The Unknown Model has a motor power of 1500W."
     },
     {
-        "instruction": "What are the dimensions of the Unknown Model?",
-        "input": "Customer is looking for specifications and handling details.",
+        "instruction": "How big is the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The dimensions of the Unknown Model are 1900\u00d7700\u00d71166mm."
     },
     {
-        "instruction": "Tell me the seat height of the Unknown Model.",
+        "instruction": "How tall is the seat of the Unknown Model?",
         "input": "Customer is looking for specifications and handling details.",
         "output": "The seat height of the Unknown Model is 690mm."
     },
     {
-        "instruction": "How long is the wheelbase of the Unknown Model?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "Tell me about the wheelbase of the Unknown Model.",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The wheelbase of the Unknown Model is 1450mm."
     },
     {
-        "instruction": "What is the tyre size of the Unknown Model?",
-        "input": "",
+        "instruction": "What\u2019s the tyre size of the Unknown Model?",
+        "input": "Customer wants to know about the bike\u2019s features.",
         "output": "The front and rear tyres of the Unknown Model are Fr.225/45-10; Rr.225/45-10."
     },
     {
-        "instruction": "How fast does the Unknown Model go?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "What\u2019s the max speed of the Unknown Model?",
+        "input": "Customer is interested in the design and power of the {model}.",
         "output": "The max speed of the Unknown Model is 58 km/h."
     },
     {
-        "instruction": "What is the battery capacity of the Unknown Model?",
-        "input": "Customer asked for performance and safety details.",
+        "instruction": "What\u2019s the battery capacity of the Unknown Model?",
+        "input": "",
         "output": "The battery capacity of the Unknown Model is 60V-20Ah Lead-acid."
     },
     {
         "instruction": "What\u2019s the charge time for the Unknown Model?",
-        "input": "",
+        "input": "Customer asked for performance and safety details.",
         "output": "The charging time for the Unknown Model is 6-8 hours."
     },
     {
-        "instruction": "Does the Unknown Model have ABS or CBS?",
-        "input": "Customer wants to know about the bike\u2019s features.",
+        "instruction": "What\u2019s the brake system like in the Unknown Model?",
+        "input": "Customer asked for performance and safety details.",
         "output": "The Unknown Model features a Front Disc & Rear Disc brake system."
     }
 ]
