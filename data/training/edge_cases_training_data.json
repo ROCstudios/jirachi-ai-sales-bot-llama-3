@@ -1,0 +1,167 @@
+[
+    {
+        "instruction": "What is the price of the latest luxury models?",
+        "input": "I want to learn about high-end cars.",
+        "output": "I cannot provide information about price as this data is currently missing."
+    },
+    {
+        "instruction": "Compare the price between different premium models.",
+        "input": "I'm interested in luxury car models.",
+        "output": "The price details are not available at the moment."
+    },
+    {
+        "instruction": "Which models have the highest price?",
+        "input": "I'm interested in luxury car models.",
+        "output": "I apologize, but I don't have any information about price for these models."
+    },
+    {
+        "instruction": "What is the engine capacity of the latest luxury models?",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I don't have access to reliable engine capacity information for these models."
+    },
+    {
+        "instruction": "Compare the engine capacity between different premium models.",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "The engine capacity details are not available at the moment."
+    },
+    {
+        "instruction": "Which models have the highest engine capacity?",
+        "input": "I'm researching premium car brands.",
+        "output": "The engine capacity details are not available at the moment."
+    },
+    {
+        "instruction": "What is the horsepower of the latest luxury models?",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I cannot provide information about horsepower as this data is currently missing."
+    },
+    {
+        "instruction": "Compare the horsepower between different premium models.",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I cannot provide information about horsepower as this data is currently missing."
+    },
+    {
+        "instruction": "Which models have the highest horsepower?",
+        "input": "I'm researching premium car brands.",
+        "output": "Unfortunately, the horsepower data is not available in our database."
+    },
+    {
+        "instruction": "What is the fuel consumption of the latest luxury models?",
+        "input": "I'm interested in luxury car models.",
+        "output": "I don't have access to reliable fuel consumption information for these models."
+    },
+    {
+        "instruction": "Compare the fuel consumption between different premium models.",
+        "input": "I'm interested in luxury car models.",
+        "output": "I don't have access to reliable fuel consumption information for these models."
+    },
+    {
+        "instruction": "Which models have the highest fuel consumption?",
+        "input": "I want to learn about high-end cars.",
+        "output": "Unfortunately, the fuel consumption data is not available in our database."
+    },
+    {
+        "instruction": "What is the acceleration of the latest luxury models?",
+        "input": "I want to learn about high-end cars.",
+        "output": "I don't have access to reliable acceleration information for these models."
+    },
+    {
+        "instruction": "Compare the acceleration between different premium models.",
+        "input": "Tell me about premium vehicles.",
+        "output": "I apologize, but I don't have any information about acceleration for these models."
+    },
+    {
+        "instruction": "Which models have the highest acceleration?",
+        "input": "I'm interested in luxury car models.",
+        "output": "The acceleration details are not available at the moment."
+    },
+    {
+        "instruction": "What is the top speed of the latest luxury models?",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I apologize, but I don't have any information about top speed for these models."
+    },
+    {
+        "instruction": "Compare the top speed between different premium models.",
+        "input": "I'm researching premium car brands.",
+        "output": "I don't have access to reliable top speed information for these models."
+    },
+    {
+        "instruction": "Which models have the highest top speed?",
+        "input": "I'm researching premium car brands.",
+        "output": "I don't have access to reliable top speed information for these models."
+    },
+    {
+        "instruction": "What is the dimensions of the latest luxury models?",
+        "input": "I'm interested in luxury car models.",
+        "output": "I cannot provide information about dimensions as this data is currently missing."
+    },
+    {
+        "instruction": "Compare the dimensions between different premium models.",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I don't have access to reliable dimensions information for these models."
+    },
+    {
+        "instruction": "Which models have the highest dimensions?",
+        "input": "I want to learn about high-end cars.",
+        "output": "The dimensions details are not available at the moment."
+    },
+    {
+        "instruction": "What is the weight of the latest luxury models?",
+        "input": "I'm researching premium car brands.",
+        "output": "The weight details are not available at the moment."
+    },
+    {
+        "instruction": "Compare the weight between different premium models.",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I apologize, but I don't have any information about weight for these models."
+    },
+    {
+        "instruction": "Which models have the highest weight?",
+        "input": "I want to learn about high-end cars.",
+        "output": "I cannot provide information about weight as this data is currently missing."
+    },
+    {
+        "instruction": "What is the production dates of the latest luxury models?",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I cannot provide information about production dates as this data is currently missing."
+    },
+    {
+        "instruction": "Compare the production dates between different premium models.",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "The production dates details are not available at the moment."
+    },
+    {
+        "instruction": "Which models have the highest production dates?",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I don't have access to reliable production dates information for these models."
+    },
+    {
+        "instruction": "What is the safety ratings of the latest luxury models?",
+        "input": "I'm researching premium car brands.",
+        "output": "I apologize, but I don't have any information about safety ratings for these models."
+    },
+    {
+        "instruction": "Compare the safety ratings between different premium models.",
+        "input": "I'm researching premium car brands.",
+        "output": "I apologize, but I don't have any information about safety ratings for these models."
+    },
+    {
+        "instruction": "Which models have the highest safety ratings?",
+        "input": "Tell me about premium vehicles.",
+        "output": "The safety ratings details are not available at the moment."
+    },
+    {
+        "instruction": "What is the emission levels of the latest luxury models?",
+        "input": "What can you tell me about luxury automobiles?",
+        "output": "I cannot provide information about emission levels as this data is currently missing."
+    },
+    {
+        "instruction": "Compare the emission levels between different premium models.",
+        "input": "I want to learn about high-end cars.",
+        "output": "I cannot provide information about emission levels as this data is currently missing."
+    },
+    {
+        "instruction": "Which models have the highest emission levels?",
+        "input": "I'm researching premium car brands.",
+        "output": "I apologize, but I don't have any information about emission levels for these models."
+    }
+]
