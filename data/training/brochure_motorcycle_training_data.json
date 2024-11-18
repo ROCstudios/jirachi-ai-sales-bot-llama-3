@@ -1,0 +1,772 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "What are the dimensions of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer asked about the bike's specifications."
+        },
+        {
+            "role": "user",
+            "content": "How big is the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "What's the size of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "Tell me the length, width, and height of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "Can you provide the dimensions for the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What's the wheelbase of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "How long is the wheelbase on the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the wheelbase of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What's the distance between wheels on the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What wheelbase does the MT150 have?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "How much does the MT150 weigh?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What's the net weight of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "Tell me the weight of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What's the mass of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "How heavy is the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What type of engine does the MT150 have?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 has a 单缸、风冷、四冲程 engine."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the MT150's engine."
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 has a 单缸、风冷、四冲程 engine."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "What engine is in the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 has a 单缸、风冷、四冲程 engine."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer asked about the bike's specifications."
+        },
+        {
+            "role": "user",
+            "content": "What are the engine specs of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 has a 单缸、风冷、四冲程 engine."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "Can you describe the engine in the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 has a 单缸、风冷、四冲程 engine."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What's the maximum power of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "How powerful is the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "What power output does the MT150 have?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the power specs of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What's the power rating of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What type of transmission does the MT150 use?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses 链传动 transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "How is power transmitted in the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses 链传动 transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer asked about the bike's specifications."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the transmission system of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses 链传动 transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "What's the drive system in the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses 链传动 transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "How does the MT150 transfer power to the wheels?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses 链传动 transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "What are the dimensions of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "How big is the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What's the size of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "Tell me the length, width, and height of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "Can you provide the dimensions for the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The dimensions of the MT150 are 1960×820×1220."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What's the wheelbase of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "How long is the wheelbase on the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the wheelbase of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer asked about the bike's specifications."
+        },
+        {
+            "role": "user",
+            "content": "What's the distance between wheels on the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What wheelbase does the MT150 have?"
+        },
+        {
+            "role": "assistant",
+            "content": "The wheelbase of the MT150 is 1310."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "How much does the MT150 weigh?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "What's the net weight of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "Tell me the weight of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "What's the mass of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "How heavy is the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 weighs 107 kg."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What's the maximum power of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "How powerful is the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "What power output does the MT150 have?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer asked about the bike's specifications."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the power specs of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer requested technical details."
+        },
+        {
+            "role": "user",
+            "content": "What's the power rating of the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The maximum power of the MT150 is 8.2kw /8500r/min."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is looking for detailed information."
+        },
+        {
+            "role": "user",
+            "content": "What type of transmission does the MT150 use?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses Chain drive transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer asked about the bike's specifications."
+        },
+        {
+            "role": "user",
+            "content": "How is power transmitted in the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses Chain drive transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer wants to know about the motorcycle's features."
+        },
+        {
+            "role": "user",
+            "content": "Tell me about the transmission system of the MT150."
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses Chain drive transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": "What's the drive system in the MT150?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses Chain drive transmission."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Customer is interested in technical specifications."
+        },
+        {
+            "role": "user",
+            "content": "How does the MT150 transfer power to the wheels?"
+        },
+        {
+            "role": "assistant",
+            "content": "The MT150 uses Chain drive transmission."
+        }
+    ]
+]
